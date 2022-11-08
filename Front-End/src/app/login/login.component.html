@@ -1,0 +1,28 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+
+
+<div class="container-sm" style="width: 60%;margin-left: 20%;">
+  <!-- <div class="card card-container">
+    <a href="https://www.mindtree.com/" target="_blank">
+    <img id="profile-img"  class="profile-img-card" style="width: 50%;margin-left: 25%;" src="https://www.mindtree.com/sites/default/files/2019-06/mindtree-logo.png" />
+    <p id="profile-name" class="profile-name-card"></p>
+    </a> -->
+    <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="Avatar"  class="img-rounded" width="204" height="206" style="border-radius: 50%;margin-left:39%;">
+    <br/>
+    <br/>
+    <form [formGroup]="user">
+      <input type="email" formControlName="mail" required type="text" style="padding-top:20px;width:50%;margin-left: 25%; border-radius: 10px; font-family: Times New Roman; font-size: large;font-weight: bold;" class="fadeIn second"
+        placeholder="Email">
+        <br/>
+      <input type="password" formControlName="password" required type="text" style="padding-top:20px ;margin-left: 25%; width: 50%; margin-top:20px; border-radius: 10px;font-family: Times New Roman;font-size: large;font-weight: bold;" class="fadeIn second"
+        placeholder="Password">
+      <input type="submit" (click)="login()" class="btn btn-lg btn-success btn-block btn-signin" style="cursor: pointer;margin-top: 20px;margin-left: 25%;width: 50%;" value="Login">
+      <a class="btn btn-lg btn-info btn-block btn-signin" style="cursor: pointer;margin-top: 20px;margin-left: 25%;width: 50%;" href="https://github.com/sabareesh-git/Employee-Front-End" target="_blank">Github Repository</a>>
+      </form>
+  <!-- </div> -->
+</div>
+<br>
+<br>

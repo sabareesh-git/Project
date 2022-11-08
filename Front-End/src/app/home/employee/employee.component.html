@@ -1,0 +1,145 @@
+<br>
+<div class="container">
+  <div class="jumbotron py-3">
+    <h1 class="display-4 text-center">Employee Form</h1>
+  </div>
+  <hr />
+
+  <form novalidate #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
+    <input type="hidden" name="employeeId" [value]="service.formData.employeeId" />
+    <br />
+    <div class="form-group col-md-6">
+      <label>Employee Name</label>
+      <input class="form-control form-control-lg" placeholder="Employee Full Name" name="employeeName" #employeeName="ngModel"
+        [(ngModel)]="service.formData.employeeName">
+    </div>
+    <br />
+    <div class="form-group col-md-6">
+      <label>Email Id </label>
+      <input type="email" class="form-control form-control-lg" placeholder="Email Id" name="emailId" #emailId="ngModel"
+        [(ngModel)]="service.formData.emailId">
+    </div>
+    <br />
+    <div class="form-group col-md-6">
+      <label>Password </label>
+      <input type="password" class="form-control form-control-lg" placeholder="Password" name="password"
+        #password="ngModel" [(ngModel)]="service.formData.password">
+    </div>
+    <br />
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label>Address </label>
+        <input class="form-control form-control-lg" placeholder="Address" name="address" #address="ngModel"
+          [(ngModel)]="service.formData.address" [maxlength]="50" [minlength]="5">
+      </div>
+    </div>
+    <br />
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label>Designation Name </label>
+        <select id="designationName" name="designationName" [(ngModel)]="service.formData.designationName" class="form-control">
+          <option value="Dot-Net Trainee">Dot-Net Trainee</option>
+          <option value="Dot-Net Developer">Dot-Net Developer</option>
+          <option value="Java Trainee">Java Trainee</option>
+          <option value="Java Developer">Java Developer</option>   
+          <option value="Sales Force Trainee">Sales Force Trainee</option>
+          <option value="Sales Force Developer">Sales Force Developer</option>   
+          
+        </select>
+        <!--<input class="form-control form-control-lg" placeholder="Designation Name" name="designationName"
+          #designationName="ngModel" [(ngModel)]="service.formData.designationName" [maxlength]="50" [minlength]="5">-->
+      </div>
+    </div>
+    <br />
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label>Payment Mode </label>
+        <select id="payment" name="payment" [(ngModel)]="service.formData.payment" class="form-control">
+          <option value="NIL">NIL</option>
+          <option value="Credit Cards">Credit Cards</option>
+          <option value="Net Banking">Net Banking</option>
+          <option value="EMI">EMI</option>
+        </select>
+      <!--<input class="form-control form-control-lg" placeholder="Designation Role" name="payment"
+        #payment="ngModel" [(ngModel)]="service.formData.payment" [maxlength]="50" [minlength]="5">-->
+      </div>
+    </div>
+    <br />
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label>Qualification </label>
+        <select id="qualification" name="qualification" [(ngModel)]="service.formData.qualification" class="form-control">
+          <option value="Bsc/BCA">Bsc/BCA</option>
+          <option value="BE/BTech">BE/BTech</option>
+          <option value="ME/MTech">ME/MTech</option>
+          <option value="MSc/MCA">MSc/MCA</option>
+          <option value="Others">Others</option>
+        </select>
+        <!--<input class="form-control form-control-lg" placeholder="Qualification" name="qualification"
+          #qualification="ngModel" [(ngModel)]="service.formData.qualification" [maxlength]="50" [minlength]="5">-->
+      </div>
+    </div>
+    <br />
+    <div class="form-group col-md-6">
+      <label>Company Hours </label>
+      <select id="company_Hours" name="company_Hours" [(ngModel)]="service.formData.company_Hours" class="form-control">
+        <option value="120">120</option>
+        <option value="90">90</option>
+        
+      </select>
+      <!--<input  class="form-control form-control-lg" placeholder="Company Hours" name="company_Hours"
+        #company_Hours="ngModel" [(ngModel)]="service.formData.company_Hours">-->
+    </div>
+    <br />
+    <div class="form-group col-md-6">
+      <label>Employee Hours </label>
+      <select id="employee_hours" name="employee_hours" [(ngModel)]="service.formData.employee_hours" class="form-control">
+        <option value="120">120</option>
+        <option value="110">110</option>
+        <option value="100">100</option>
+        <option value="90">90</option>
+        <option value="60">60</option>
+      </select>
+      <!--<input  class="form-control form-control-lg" placeholder="Employee Hours" name="employee_hours"
+        #intern_hours="ngModel" [(ngModel)]="service.formData.employee_hours">-->
+    </div>
+    <br />
+    <div class="form-group">
+      <button class="btn btn-info btn-lg btn-block" style="color: white;" type="submit">SUBMIT</button>
+    </div>
+  </form>
+  <hr />
+  <br />
+  <div class="jumbotron">
+    <h1 class="display-4 text-center" style="background-color: rgb(192, 185, 185); height: 100px;">Employee Details</h1>
+  </div>
+  <table class="table">
+    <thead class="thead-light">
+      <tr>
+        <th>Employee Name</th>
+        <th>Address</th>
+        <th>Email ID</th>
+        <th>Designation Name</th>
+        <th>Payment</th>
+        <th>Qualification</th>
+        <th>Company Hours</th>
+        <th>Intern Hours</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of service.list">
+        <td (click)="populateform(item)">{{item.employeeName}}</td>
+        <td (click)="populateform(item)">{{item.address}}</td>
+        <td (click)="populateform(item)">{{item.emailId}}</td>
+        <td (click)="populateform(item)">{{item.designationName}}</td>
+        <td (click)="populateform(item)">{{item.payment}}</td>
+        <td (click)="populateform(item)">{{item.qualification}}</td>
+        <td (click)="populateform(item)">{{item.company_Hours}}</td>
+        <td (click)="populateform(item)">{{item.employee_hours}}</td>
+
+        <td (click)="onDelete(item.employeeId)"><button class="btn btn-danger">Delete</button></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
