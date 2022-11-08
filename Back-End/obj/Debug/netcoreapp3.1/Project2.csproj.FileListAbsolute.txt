@@ -1,0 +1,186 @@
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Project2.exe
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Project2.deps.json
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.json
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.dev.json
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Project2.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mindc1jun71\Desktop\Project2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfoInputs.cache
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfo.cs
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.CoreCompileInputs.cache
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\staticwebassets\Project2.StaticWebAssets.Manifest.cache
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\staticwebassets\Project2.StaticWebAssets.xml
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project2.styles.css
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.RazorTargetAssemblyInfo.cache
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.CopyComplete
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.dll
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.genruntimeconfig.cache
+C:\Users\mindc1jun71\Desktop\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.AssemblyReference.cache
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Project2.exe
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Project2.deps.json
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.json
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.dev.json
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Project2.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.csproj.AssemblyReference.cache
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.AssemblyInfoInputs.cache
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.AssemblyInfo.cs
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.csproj.CoreCompileInputs.cache
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project2.StaticWebAssets.Manifest.cache
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project2.StaticWebAssets.xml
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project2.styles.css
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.RazorTargetAssemblyInfo.cache
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.csproj.CopyComplete
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\obj\Debug\netcoreapp3.1\Project2.genruntimeconfig.cache
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Log4net.config
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Log4net.config
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Project2.exe
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Project2.deps.json
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.json
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.dev.json
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Project2.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.csproj.AssemblyReference.cache
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.AssemblyInfoInputs.cache
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.AssemblyInfo.cs
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project2.StaticWebAssets.Manifest.cache
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\staticwebassets\Project2.StaticWebAssets.xml
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project2.styles.css
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.RazorTargetAssemblyInfo.cache
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.csproj.CopyComplete
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.dll
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.pdb
+C:\Users\Sabareeshwaran G\OneDrive\Desktop\Project\obj\Debug\netcoreapp3.1\Project2.genruntimeconfig.cache
