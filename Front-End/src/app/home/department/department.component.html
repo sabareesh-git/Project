@@ -1,0 +1,74 @@
+<br>
+<div class="container">
+<div class="jumbotron py-3">
+  <h1 class="display-4 text-center">Department Form</h1>
+</div>
+<hr />
+<form novalidate #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
+  <input type="hidden" name="designationID" [value]="service.formData.designationID" />
+  <br />
+  <div class="form-group col-md-6">
+    <label>Designation Name</label>
+    <select id="designationName" name="designationName" [(ngModel)]="service.formData.designationName" class="form-control">
+      <option value="Dot-Net">Dot-Net</option>
+      <option value="Java">Java</option>       
+      <option value="Sales Force">Sales Force</option>
+      
+    </select>
+    <!--<input class="form-control form-control-lg" placeholder="Designation Name" name="designationName" #designationName="ngModel"
+      [(ngModel)]="service.formData.designationName">-->
+  </div>
+  <br />
+  <div class="form-group col-md-6">
+    <label>Role Name</label>
+    <select id="roleName" name="roleName" [(ngModel)]="service.formData.roleName" class="form-control">
+      <option value="Trainee">Trainee</option>
+      <option value="Developer">Developer</option>          
+      
+    </select>
+    <!--<input class="form-control form-control-lg" placeholder="Role Name" name="roleName"
+      #roleName="ngModel" [(ngModel)]="service.formData.roleName" [minlength]="3" [maxlength]="16">-->
+  </div>
+  <br />
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label>Location</label>
+      <select id="departmentName" name="departmentName" [(ngModel)]="service.formData.departmentName" class="form-control">
+        <option value="Banglore">Banglore</option>
+        <option value="Chennai">Chennai</option>   
+        <option value="Mysore">Mysore</option>       
+      </select>
+      <!--<input class="form-control form-control-lg" placeholder="Department Name" name="departmentName" #departmentName="ngModel"
+        [(ngModel)]="service.formData.departmentName" [maxlength]="15" [minlength]="5">-->
+    </div>
+
+  </div>
+  <br />
+  <div class="form-group">
+    <button class="btn btn-info btn-lg btn-block" style="color: white;" type="submit">SUBMIT</button>
+  </div>
+</form>
+<hr />
+<br />
+<div class="jumbotron">
+  <h1 class="display-4 text-center" style="background-color: rgb(192, 185, 185); height: 100px;">Department Details</h1>
+</div>
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th>Designation Name</th>
+      <th>Role Name</th>
+      <th>Location</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of service.list">
+      <td (click)="populateform(item)">{{item.designationName}}</td>
+      <td (click)="populateform(item)">{{item.roleName}}</td>
+      <td (click)="populateform(item)">{{item.departmentName}}</td>
+      <td (click)="onDelete(item.designationID)"><button class="btn btn-danger">Delete</button></td>
+    </tr>
+  </tbody>
+</table>
+</div>
